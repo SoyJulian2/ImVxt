@@ -24,7 +24,7 @@ I Am from Argentina. I started with the developing when I was 12, but before tha
 
 Actually I can't say that I know completly a language, anyways, I hope some day know about:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,nodejs,git)]
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,nodejs,git)](https://solo.to/vxt)
 
 <br />
 
